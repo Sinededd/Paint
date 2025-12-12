@@ -5,7 +5,7 @@
 В фигурах можно изменить размер, поворот относительно цетра, и некоторые другие параметры.
 Также можно выделять и перемещать фигуры, делать множественное выделение, удалять по клавише Del. 
 ## Quick Preview
-![Preview](https://github.com/Sinededd/Qt_TypingTutor/Gallery/Screen.png "Preview")
+![Preview](https://github.com/Sinededd/Qt_TypingTutor/raw/main/Gallery/Screen.png "Preview")
 ## How to Run The Project
 1. Download Qt & Qt Creator from here
 2. Clone the repository
